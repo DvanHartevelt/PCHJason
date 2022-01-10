@@ -3,9 +3,11 @@
     [
         {
             "title": "Opening Ceremony",
+            "organizer": "",
             "room": "Mane Stage",
             "starttime": "11:30",
-            "endtime": "12:30"
+            "endtime": "12:30",
+            "description": ""
         },
         {
             "title": "Fallout Equestria History Panel",
