@@ -1,6 +1,12 @@
 {
-    "events": 
+    "SaturdayEvents": 
     [
+        {
+            "title": "Opening Ceremony",
+            "room": "Mane Stage",
+            "starttime": "11:30",
+            "endtime": "12:30"
+        },
         {
             "title": "Fallout Equestria History Panel",
             "organizer": "Fiaura The Tank Girl",
@@ -9,7 +15,6 @@
             "endtime": "14:00",
             "description": "A panel about the history of Fallout Equestria."
         },
-
         {
             "title": "Tales of Equestria Workshop",
             "organizer": "Victorymon",
