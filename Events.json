@@ -23,6 +23,110 @@
             "starttime": "13:00",
             "endtime": "14:45",
             "description": "A Workshop about Tales of Equestria."
+        },
+        {
+            "title": "Improv Panel",
+            "organizer": "Steffy",
+            "room": "Panel Room",
+            "starttime": "14:15",
+            "endtime": "15:15",
+            "description": "Improvise away with Steffan."
+        },
+        {
+            "title": "Cosplay Contest",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "15:00",
+            "endtime": "16:30",
+            "description": "Show of your cosplays to all attendees."
+        },
+        {
+            "title": "Drawing Workshop",
+            "organizer": "Lizemijn and André",
+            "room": "Workshop Room",
+            "starttime": "15:00",
+            "endtime": "16:30",
+            "description": "Draw some ponies with Lizemijn and André."
+        },
+        {
+            "title": "VA Workshop",
+            "organizer": "Elley-Ray",
+            "room": "Panel Room",
+            "starttime": "15:15",
+            "endtime": "16:30",
+            "description": "Try your skills at voice acting, with Elley-Ray and Flitterkriz."
+        },
+        {
+            "title": "Origami Workshop",
+            "organizer": "Malte",
+            "room": "Workshop Room",
+            "starttime": "16:45",
+            "endtime": "17:45",
+            "description": "Try your hand at making Origami Ponies with Malte."
+        },
+        {
+            "title": "Video call with Cathy Weseluck",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "17:00",
+            "endtime": "18:00",
+            "description": "A videocall with Cathy Weseluck."
+        },
+        {
+            "title": "Big Karaoke",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "19:00",
+            "endtime": "19:30",
+            "description": "Have a blast singing in front of a big audience."
+        },
+        {
+            "title": "Dutch Brony Mucisians",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "19:45",
+            "endtime": "20:15",
+            "description": ""
+        },
+        {
+            "title": "Sam Quak Brony",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "20:15",
+            "endtime": "20:45",
+            "description": ""
+        },
+        {
+            "title": "PrinceWhateverer, Blackened Blue and Deus",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "20:45",
+            "endtime": "21:30",
+            "description": ""
+        },
+        {
+            "title": "Blackened Blue",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "21:30",
+            "endtime": "22:15",
+            "description": ""
+        },
+        {
+            "title": "BlackIce Music",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "22:15",
+            "endtime": "23:00",
+            "description": ""
+        },
+        {
+            "title": "Tw3lv3",
+            "organizer": "",
+            "room": "Mane Stage",
+            "starttime": "23:00",
+            "endtime": "23:45",
+            "description": ""
         }
     ]
 }
