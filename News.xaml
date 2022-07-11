@@ -11,7 +11,7 @@
 	>
 
 <channel>
-	<title>PonyCon Holland &#8211; The Dutch Brony Convention</title>
+	<title>PonyCon Holland, The Dutch Brony Convention</title>
 	<!--<atom:link href="https://ponyconholland.com/feed/" rel="self" type="application/rss+xml" />-->
 	<link>https://ponyconholland.com</link>
 	<description>The Dutch Brony convention of 2021</description>
@@ -23,14 +23,14 @@
 
 	<image>
 		<url>https://i0.wp.com/ponyconholland.com/wp-content/uploads/2020/04/cropped-PCH-Favicon-2.png?fit=32%2C32&#038;ssl=1</url>
-		<title>PonyCon Holland &#8211; The Dutch Brony Convention</title>
+		<title>PonyCon Holland, The Dutch Brony Convention</title>
 		<link>https://ponyconholland.com</link>
 		<width>32</width>
 		<height>32</height>
 	</image> 
   	<site xmlns="com-wordpress:feed-additions:1">184177337</site>	
 	<item>
-		<title>Guest of Honour: Ingrid Nilson, voice of Maud Pie</title>
+		<title>Guest of Honour Ingrid Nilson, voice of Maud Pie</title>
 		<link>https://ponyconholland.com/2022/07/06/guest-of-honour-ingrid-nilson-voice-of-maud-pie/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=guest-of-honour-ingrid-nilson-voice-of-maud-pie</link>
 					<comments>https://ponyconholland.com/2022/07/06/guest-of-honour-ingrid-nilson-voice-of-maud-pie/#respond</comments>
 
