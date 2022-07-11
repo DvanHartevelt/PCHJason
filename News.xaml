@@ -12,39 +12,39 @@
 
 <channel>
 	<title>PonyCon Holland &#8211; The Dutch Brony Convention</title>
-	<atom:link href="https://ponyconholland.com/feed/" rel="self" type="application/rss+xml" />
+	<!--<atom:link href="https://ponyconholland.com/feed/" rel="self" type="application/rss+xml" />-->
 	<link>https://ponyconholland.com</link>
 	<description>The Dutch Brony convention of 2021</description>
 	<lastBuildDate>Wed, 06 Jul 2022 16:25:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<!--<sy:updateFrequency>1</sy:updateFrequency>-->
 	<generator>https://wordpress.org/?v=6.0</generator>
 
-  <image>
-    <url>https://i0.wp.com/ponyconholland.com/wp-content/uploads/2020/04/cropped-PCH-Favicon-2.png?fit=32%2C32&#038;ssl=1</url>
-    <title>PonyCon Holland &#8211; The Dutch Brony Convention</title>
-    <link>https://ponyconholland.com</link>
-    <width>32</width>
-    <height>32</height>
-  </image> 
-  <site xmlns="com-wordpress:feed-additions:1">184177337</site>	
-  <item>
+	<image>
+		<url>https://i0.wp.com/ponyconholland.com/wp-content/uploads/2020/04/cropped-PCH-Favicon-2.png?fit=32%2C32&#038;ssl=1</url>
+		<title>PonyCon Holland &#8211; The Dutch Brony Convention</title>
+		<link>https://ponyconholland.com</link>
+		<width>32</width>
+		<height>32</height>
+	</image> 
+  	<site xmlns="com-wordpress:feed-additions:1">184177337</site>	
+	<item>
 		<title>Guest of Honour: Ingrid Nilson, voice of Maud Pie</title>
 		<link>https://ponyconholland.com/2022/07/06/guest-of-honour-ingrid-nilson-voice-of-maud-pie/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=guest-of-honour-ingrid-nilson-voice-of-maud-pie</link>
 					<comments>https://ponyconholland.com/2022/07/06/guest-of-honour-ingrid-nilson-voice-of-maud-pie/#respond</comments>
-		
+
 		<!--<dc:creator><![CDATA[Aurora]]></dc:creator>-->
 		<pubDate>Wed, 06 Jul 2022 16:23:43 +0000</pubDate>
 				<category><![CDATA[PonyCon Holland 2022 News]]></category>
 		<guid isPermaLink="false">https://ponyconholland.com/?p=25949</guid>
 
 		<description><![CDATA[<p>We are very happy to announce that Ingrid Nilson will be coming to PonyCon Holland! (in person) Ingrid Nilson voices characters on top animated shows and has appeared onscreen in multiple award-winning film and television productions. In My Little Pony &#8211; Friendship is Magic she provided the voices of Pinkie Pie&#8217;s sisters Maud, Limestone, and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://ponyconholland.com/2022/07/06/guest-of-honour-ingrid-nilson-voice-of-maud-pie/">Guest of Honour: Ingrid Nilson, voice of Maud Pie</a> appeared first on <a rel="nofollow" href="https://ponyconholland.com">PonyCon Holland - The Dutch Brony Convention</a>.</p>
-]]></description>
-											
-		<post-id xmlns="com-wordpress:feed-additions:1">25949</post-id>	</item>
-	</channel>
+		<p>The post <a rel="nofollow" href="https://ponyconholland.com/2022/07/06/guest-of-honour-ingrid-nilson-voice-of-maud-pie/">Guest of Honour: Ingrid Nilson, voice of Maud Pie</a> appeared first on <a rel="nofollow" href="https://ponyconholland.com">PonyCon Holland - The Dutch Brony Convention</a>.</p>
+		]]></description>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">25949</post-id>	
+	</item>
+</channel>
 </rss>
