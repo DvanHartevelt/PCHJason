@@ -17,9 +17,8 @@
 	<description>The Dutch Brony convention of 2021</description>
 	<lastBuildDate>Wed, 06 Jul 2022 16:25:25 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<!--<sy:updateFrequency>1</sy:updateFrequency>-->
+	<!--<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>-->
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 	<image>
